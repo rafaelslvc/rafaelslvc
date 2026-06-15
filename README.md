@@ -1,4 +1,11 @@
-## Hi there 👋
+## Olá, me chamo Rafael Antônio e sejam bem-vindos ao meu perfil 👋
+
+- Estudante de Engenharia Elétrica ⚡ na Universidade Federal do Rio Grande do Sul (UFRGS).
+- Interessado em programação.
+
+  ## Estou aprendendo:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="75" height="75" />
+          
 
 <!--
 **rafaelslvc/rafaelslvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
